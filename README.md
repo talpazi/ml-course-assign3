@@ -19,7 +19,7 @@ The project includes three implementations:
 ## Repository Structure
 
 ml-course-assign3\
-├── assign3-notebook.ipynb # Main notebook containing all implementations, experiments, and analysis\
+├── assign3-notebook.ipynb # Main notebook containing all implementations, and analysis\
 ├── README.md # Project description and repository structure\
 ├── python_environment_check.py# Package version check script (from Raschka et al., 2022)\
 ├── saved_models/ # Saved model weights, results, and training histories\
