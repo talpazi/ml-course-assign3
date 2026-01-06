@@ -18,6 +18,7 @@ The project includes three implementations:
 
 ## Repository Structure
 ml-course-assign3/
+
 │
 ├── assign3-notebook.ipynb # Main notebook containing all implementations, experiments, and analysis
 ├── README.md # Project description and repository structure
