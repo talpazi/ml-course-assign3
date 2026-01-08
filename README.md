@@ -1,5 +1,9 @@
 # Assignment 3 – ML Course
 
+Students:
+Shir Nehoray 209544352
+Itamar Talpaz 315078196
+
 GitHub repository:  
 https://github.com/talpazi/ml-course-assign3
 
