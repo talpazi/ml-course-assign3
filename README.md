@@ -21,7 +21,7 @@ The project includes three implementations:
 ---
 
 ## Repository Structure
-
+```
 ml-course-assign3\
 ├── assign3-notebook.ipynb # Main notebook containing all implementations, and analysis\
 ├── README.md # Project description and repository structure\
@@ -29,6 +29,6 @@ ml-course-assign3\
 ├── saved_models/ # Saved model weights, results, and training histories\
 ├── summry_plot.png # Summary comparison plots\
 ├── summry_plot2.png # Additional training and evaluation plots
-
+```
 ## Notes
 - Detailed explanations and results are provided in the accompanying PDF report submitted via Moodle.
